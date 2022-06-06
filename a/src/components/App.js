@@ -1,8 +1,11 @@
 import React from 'react';
+import Login from '/workspace/web_example/a/src/components/Login.js'
  
 const App = () => {
   return (
-    <h3>Hello, React</h3>
+    <div>
+      <Login />
+    </div>
   );
 };
  
